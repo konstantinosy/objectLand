@@ -5,6 +5,7 @@ Credits: https://github.com/gprok-esc-courses/oop-java-1/blob/main/src/introduct
 package Week01;
 
 //Import Random and Scanner for later usage.
+
 import java.util.Random;
 import java.util.Scanner;
 

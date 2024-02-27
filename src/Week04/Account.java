@@ -8,6 +8,7 @@ public class Account {
     private String creditCard;
     private double balance;
     private boolean active;
+
     public Account(int id, String name, String address, String phone) {
         this.id = id;
         this.name = name;
@@ -17,6 +18,7 @@ public class Account {
         this.balance = 0;
         this.active = true;
     }
+
     public String toString() {
         return "ID: " + id + "\n" +
                 "Name: " + name + "\n" +

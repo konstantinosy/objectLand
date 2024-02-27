@@ -16,3 +16,7 @@
 <b><u>Week3</u> contains:</b>
 
 * An <b>example</b> of the hangman game to be used as a reference. (Hangman Version 1) 
+
+<b><u>Week4</u> contains:</b>
+
+* A bank app consisting of three classes Account, Bank and BankMenu. Functionality includes viewing, adding and setting inactivity.

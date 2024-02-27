@@ -18,10 +18,10 @@ public class NamesListExample {
         Faker faker = new Faker();
         for (int i = 0; i < 50; i++) {
             names.add(faker.address().firstName() + " "
-            + faker.address().lastName());
+                    + faker.address().lastName());
         }
 
-        for(String name : names) {
+        for (String name : names) {
             System.out.println(name);
         }
     }
