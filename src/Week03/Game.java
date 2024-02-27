@@ -1,5 +1,5 @@
-// Game.java is not my work. I just have it here to use it as a reference. Credits:
-// https://github.com/gprok-esc-courses/oop-java-1/blob/main/src/hangman_v1/Game.java .
+// Game.java is not my work. I just have it here to use it as a reference.
+// Credits: https://github.com/gprok-esc-courses/oop-java-1/blob/main/src/hangman_v1/Game.java .
 package Week03;
 
 import java.util.Scanner;

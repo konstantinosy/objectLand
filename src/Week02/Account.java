@@ -61,6 +61,4 @@ public class Account {
         return "Customer Name ='" + name + '\'' +
                 ", Account Number ='" + accountNumber + '\'' + ", Account Balance ='" + balance + "'";
     }
-
-
 }

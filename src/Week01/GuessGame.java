@@ -1,6 +1,10 @@
+/*
+This is not my work. I have it here as a reference.
+Credits: https://github.com/gprok-esc-courses/oop-java-1/blob/main/src/introduction/GuessGame.java .
+ */
 package Week01;
 
-// Import Random and Scanner for later usage.
+//Import Random and Scanner for later usage.
 import java.util.Random;
 import java.util.Scanner;
 
