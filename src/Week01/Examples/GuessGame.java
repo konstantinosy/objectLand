@@ -2,7 +2,7 @@
 This is not my work. I have it here as a reference.
 Credits: https://github.com/gprok-esc-courses/oop-java-1/blob/main/src/introduction/GuessGame.java .
  */
-package Week01;
+package Week01.Examples;
 
 //Import Random and Scanner for later usage.
 

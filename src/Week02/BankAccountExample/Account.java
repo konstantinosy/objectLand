@@ -1,4 +1,4 @@
-package Week02;
+package Week02.BankAccountExample;
 
 public class Account {
     private String name;

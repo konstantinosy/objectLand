@@ -1,4 +1,4 @@
-package Week01;
+package Week01.Exercises;
 
 // Import Scanner to accept input afterward.
 import java.util.Scanner;

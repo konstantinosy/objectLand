@@ -3,9 +3,9 @@ This is not my work. I have it here as a reference.
 Credits: https://github.com/gprok-esc-courses/oop-java-1/blob/main/src/Test.java .
  */
 
-package Week01;
+package Week01.Examples;
 
-public class Examples {
+public class Introduction {
     public static void main(String[] args) {
         System.out.println("Hello World!");
 

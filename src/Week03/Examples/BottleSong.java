@@ -1,4 +1,4 @@
-package Week03;
+package Week03.Examples;
 
 public class BottleSong {
     public static void main(String[] args) {

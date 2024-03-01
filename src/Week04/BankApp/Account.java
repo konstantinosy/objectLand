@@ -1,4 +1,4 @@
-package Week04.Week04Bank;
+package Week04.BankApp;
 
 public class Account {
     private int id;

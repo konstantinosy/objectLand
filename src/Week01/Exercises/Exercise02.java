@@ -1,4 +1,4 @@
-package Week01;
+package Week01.Exercises;
 
 import java.util.Arrays; // Import Arrays to sort the array.
 import java.util.Random; // Import Random to generate random values for the array.
