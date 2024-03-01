@@ -1,4 +1,4 @@
-package Week04;
+package Week04.Week04Bank;
 
 public class Account {
     private int id;
@@ -25,7 +25,8 @@ public class Account {
                 "Address: " + address + "\n" +
                 "Phone: " + phone + "\n" +
                 "Credit Card: " + creditCard + "\n" +
-                "Balance: " + balance;
+                "Balance: " + balance + "\n" +
+                "Active: " + active;
     }
 
     public int getId() {

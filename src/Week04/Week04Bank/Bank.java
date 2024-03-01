@@ -1,4 +1,4 @@
-package Week04;
+package Week04.Week04Bank;
 
 import com.github.javafaker.Faker;
 
@@ -21,10 +21,8 @@ public class Bank {
         Random rnd = new Random();
 
         for (int i = 0; i < 50; i++) {
-            String name = faker.address().firstName() + " "
-                    + faker.address().lastName();
-            Account a = addAccount(name, faker.address().fullAddress(),
-                    faker.phoneNumber().cellPhone());
+            String name = faker.address().firstName() + " " + faker.address().lastName();
+            Account a = addAccount(name, faker.address().fullAddress(), faker.phoneNumber().cellPhone());
             a.setBalance(rnd.nextInt(100000));
             a.setCreditCard(faker.business().creditCardNumber());
         }
@@ -41,6 +39,26 @@ public class Bank {
         for (Account account : accounts) {
             if (account.getId() == id) {
                 System.out.println(account);
+                return;
+            }
+        }
+    }
+
+    // This sets an account to inactive status.
+    public void setToInactive(int id) {
+        for (Account account : accounts) {
+            if (account.getId() == id) {
+                account.setActive(false);
+                return;
+            }
+        }
+    }
+
+    // This sets an account to active status.
+    public void setToActive(int id) {
+        for (Account account : accounts) {
+            if (account.getId() == id) {
+                account.setActive(true);
                 return;
             }
         }
