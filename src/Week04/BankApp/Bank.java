@@ -42,9 +42,10 @@ public class Bank {
                 return;
             }
         }
+        System.out.println("Invalid ID :(");
     }
 
-    // This sets an account to inactive status.
+    // This deactivates the status of a specific account.
     public void setToInactive(int id) {
         for (Account account : accounts) {
             if (account.getId() == id) {
@@ -52,9 +53,10 @@ public class Bank {
                 return;
             }
         }
+        System.out.println("Invalid ID :(");
     }
 
-    // This sets an account to active status.
+    // This activates the status of a specific account.
     public void setToActive(int id) {
         for (Account account : accounts) {
             if (account.getId() == id) {
@@ -62,5 +64,6 @@ public class Bank {
                 return;
             }
         }
+        System.out.println("Invalid ID :(");
     }
 }
