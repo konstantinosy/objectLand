@@ -19,4 +19,5 @@
 
 <b><u>Week4</u> contains:</b>
 
-* A bank app consisting of three classes Account, Bank and BankMenu. Functionality includes viewing, adding and setting inactivity.
+* A bank app consisting of three classes Account, Bank and BankMenu. Functionality includes viewing, adding, activating and deactivating accounts.
+* Two additional files. One explaining the double datatype problem and an example of Faker with an ArrayList.
