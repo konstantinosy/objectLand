@@ -21,3 +21,9 @@
 
 * A bank app consisting of three classes Account, Bank and BankMenu. Functionality includes viewing, adding, activating and deactivating accounts.
 * Two additional files. One explaining the double datatype problem and an example of Faker with an ArrayList.
+
+<b><u>Week5</u> contains:</b>
+
+* An example that fetches data from the internet and displays it. Keywords: API, url, parser and try/catch blocks.
+* An example featuring inheritance and polymorphism. Keywords: ? :)
+* In the exercises folder it includes quick coding to see how the ternary operator works and an exercise about pulling questions from a trivia website to display them(WIP).
