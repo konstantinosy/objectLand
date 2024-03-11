@@ -3,9 +3,9 @@ package Week05.Exercises;
 import java.util.Scanner;
 
 /*
-Ternary operator.
-It is used to mainly replace if-else statements to replace multiple lines of code.
-It is made up of three operands.
+Ternary operator
+It is used to mainly replace if-else statements - multimple lines of code
+It is made up of three (3) operands
  */
 public class TernaryExample {
     public static void main(String[] args) {
