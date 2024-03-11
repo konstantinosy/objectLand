@@ -24,6 +24,7 @@
 
 <b><u>Week5</u> contains:</b>
 
-* An example that fetches data from the internet and displays it. Keywords: API, url, parser and try/catch blocks.
-* An example featuring inheritance and polymorphism. Keywords: ? :)
-* In the exercises folder it includes quick coding to see how the ternary operator works and an exercise about pulling questions from a trivia website to display them(WIP).
+* An example that fetches data from the internet and displays it. Keywords: url, stream reader, parser, json object and try/catch blocks.
+* An example featuring inheritance and polymorphism.
+* In the exercises folder it includes quick coding to see how the ternary operator works and an exercise about pulling questions from a trivia website to display them
+by further on using the JSONArray to iterate through them and print them in an orderly fashion while decoding html elements.
