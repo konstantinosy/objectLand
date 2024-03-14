@@ -22,7 +22,7 @@
 * A [bank app](https://github.com/konstantinosy/Java-OO/tree/master/src/Week04/BankApp) consisting of three classes Account, Bank and BankMenu. Functionality includes viewing, adding, activating and deactivating accounts.
 * Two additional files. One explaining the [double datatype problem](https://github.com/konstantinosy/Java-OO/blob/master/src/Week04/Examples/DoubleProblemExample.java) and an example of [Faker with an ArrayList](https://github.com/konstantinosy/Java-OO/blob/master/src/Week04/Examples/NamesListExample.java).
 
-<b><u>Week5</u> contains:</b>
+<b><u>[Week5](https://github.com/konstantinosy/Java-OO/tree/master/src/Week05)</u> contains:</b>
 
 * An [example](https://github.com/konstantinosy/Java-OO/blob/master/src/Week05/Json/ChuckNorris.java) that fetches data from the internet and displays it. Keywords: url, stream reader, parser, json object and try/catch blocks.
 * An [example](https://github.com/konstantinosy/Java-OO/tree/master/src/Week05/InheritancePrimer) featuring inheritance and polymorphism.
